@@ -1,4 +1,4 @@
-#Thanks you Micheleen, I forked this becouse of you!
+#Thanks Micheleen, I forked this becouse of you!
 
 # bot-education-ocrbot
 A Node.js bot built with the MS Bot Framework for image OCR
